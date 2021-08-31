@@ -32,7 +32,7 @@
 
 <div style="display: inline-block">
   <img align="center" alt="Igor-MySql" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/mysql-original.svg?raw=true">
-  <img align="center" alt="Igor-SqlServer" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/microsoftsqlserver-plain.sraw=true">
+  <img align="center" alt="Igor-SqlServer" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/microsoftsqlserver-plain.svg?sraw=true">
   <img align="center" alt="Igor-Oracle" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/oracle-original.svg?raw=true">
   <img align="center" alt="Igor-PostgreSql" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/postgresql-original.svg?raw=true">
 </div>
