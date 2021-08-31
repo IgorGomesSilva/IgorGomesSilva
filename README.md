@@ -9,5 +9,11 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: igorgomessilvaa@gmail.com
 
+##
+<div>
+  <a href="https://github.com/IgorGomesSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorGomesSilva&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGomesSilva&layout=compact&theme=dark" />
+</div>
  
-  <img width="100%" height="100%" src="https://cdna.artstation.com/p/assets/images/images/013/437/556/large/clark-coots-screenshot033.jpg?1539614738" align=center> 
+  <img width="40%" height="40%" src="https://cdna.artstation.com/p/assets/images/images/013/437/556/large/clark-coots-screenshot033.jpg?1539614738"> 
