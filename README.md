@@ -17,10 +17,13 @@
   <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/nodejs-original.svg?raw=true">
   <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/html5-original.svg?raw=true">
   <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/css3-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/javascript-original.svg?raw=true">
   <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/bootstrap-plain.svg?raw=true">
 </div>
   Technologies I'm currently working on, and also technologies I've used in previous projects.
 
+<br>
+<br>
 <br>
 
 <div style="display: inline-block">
@@ -28,6 +31,9 @@
   <img align="center" alt="Igor-Vsc" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/vscode-original.svg?raw=true">
 </div>
   Tools I use to write code.
+
+<br>
+<br>
 <br>
 
 <div style="display: inline-block">
@@ -39,6 +45,8 @@
   Databases that I currently work with and have used in previous projects.
 
 
+  <br>
+  <br>
   <br>
 
 ##
