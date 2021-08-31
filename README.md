@@ -11,30 +11,30 @@
 
 <br>
 <div style="display: inline-block">
-  <img align="center" alt="Igor-CSharp" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/csharp-original.svg?raw=true">
-  <img align="center" alt="Igor-DotNet" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/dot-net-original.svg?raw=true">
-  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/dotnetcore-original.svg?raw=true">
-  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/nodejs-original.svg?raw=true">
-  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/html5-original.svg?raw=true">
-  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/css3-original.svg?raw=true">
-  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/bootstrap-plain.svg?raw=true">
+  <img align="center" alt="Igor-CSharp" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/csharp-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNet" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/dot-net-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/dotnetcore-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/nodejs-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/html5-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/css3-original.svg?raw=true">
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/bootstrap-plain.svg?raw=true">
 </div>
   Technologies I'm currently working on, and also technologies I've used in previous projects.
 
 <br>
 
 <div style="display: inline-block">
-  <img align="center" alt="Igor-Vs" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/visualstudio-plain.svg?raw=true">
-  <img align="center" alt="Igor-Vsc" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/vscode-original.svg?raw=true">
+  <img align="center" alt="Igor-Vs" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/visualstudio-plain.svg?raw=true">
+  <img align="center" alt="Igor-Vsc" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/vscode-original.svg?raw=true">
 </div>
   Tools I use to write code.
 <br>
 
 <div style="display: inline-block">
-  <img align="center" alt="Igor-MySql" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/mysql-original.svg?raw=true">
-  <img align="center" alt="Igor-SqlServer" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/microsoftsqlserver-plain.sraw=true">
-  <img align="center" alt="Igor-Oracle" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/oracle-original.svg?raw=true">
-  <img align="center" alt="Igor-PostgreSql" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/master/postgresql-original.svg?raw=true">
+  <img align="center" alt="Igor-MySql" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/mysql-original.svg?raw=true">
+  <img align="center" alt="Igor-SqlServer" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/microsoftsqlserver-plain.sraw=true">
+  <img align="center" alt="Igor-Oracle" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/oracle-original.svg?raw=true">
+  <img align="center" alt="Igor-PostgreSql" height="30" width="40" src="https://github.com/IgorGomesSilva/IgorGomesSilva/blob/main/postgresql-original.svg?raw=true">
 </div>
   Databases that I currently work with and have used in previous projects.
 
